@@ -1,0 +1,9 @@
+[project]
+name = "wechat-double"
+version = "1.0.0"
+description = "微信双开脚本，自动绕过互斥体检测，启动多个微信实例并自动排列窗口"
+requires-python = ">=3.8"
+dependencies = [
+    "pywin32",
+    "psutil",
+]
