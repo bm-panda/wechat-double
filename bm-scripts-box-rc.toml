@@ -3,8 +3,8 @@
 [bmscriptsbox.info]
 id = "7cb5305e-0b5b-405e-a37f-6160ec7ad956"
 name = "微信多开"
-desc = "Windows微信多开助手脚本 - 一键多开/分身多个微信账号，自动绕过互斥体限制并智能排列窗口，支持快捷键和右键菜单快速启动"
-version = "1.0.0"
+desc = "微信多开脚本 | 一键同时登录多个微信账号,绕过互斥体限制,自动平铺排列窗口,支持快捷键/右键菜单快速启动,无需任何配置"
+version = "1.1.0"
 icon = './imgs/wechat.png'
 
 [bmscriptsbox.runtime]
